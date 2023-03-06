@@ -1,8 +1,9 @@
-[<img align="left" width="390" alt="🦑" src="/github-metrics.svg">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.languages.details.svg">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.activity.svg">](#)
+[<img align="left" width="390" src="/github-metrics.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.activity.svg">](#)
 
-[<img align="left" width="390" alt="🦑" src="/metrics.plugin.isocalendar.fullyear.svg">](#)
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.repositories.svg">](#)
+[<img align="left" width="390" src="/metrics.plugin.isocalendar.fullyear.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.repositories.svg">](#)
 
-[<img align="right" width="390" alt="🦑" src="/metrics.plugin.music.recent.svg">](#)
+[<img align="left" width="390" src="/metrics.plugin.people.followers.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.music.recent.svg">](#)
