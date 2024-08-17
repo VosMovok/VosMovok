@@ -21,5 +21,5 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: top
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_music_limit: 5
+          plugin_music_limit: 10
           plugin_music_time_range: short
