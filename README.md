@@ -4,4 +4,4 @@
 [<img align="right" width="390" src="/metrics.plugin.repositories.svg">](#)
 [<img align="left" width="390" src="/metrics.plugin.music.recent.svg">](#)
 [<img align="right" width="390" src="/metrics.plugin.isocalendar.fullyear.svg">](#)
-[<img align="left" width="390" src="/metrics.plugin.people.followers.svg">](#)
+[<img align="right" width="390" src="/metrics.plugin.people.followers.svg">](#)
